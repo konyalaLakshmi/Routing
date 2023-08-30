@@ -1,0 +1,47 @@
+/* Write your CSS code here */
+.nav {
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  background-color: white;
+  border: 0px solid #ffffff;
+}
+.logo-container {
+  border: 0px solid #ffffff;
+  height: 50px;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 250px;
+}
+.logo {
+  height: 40px;
+  width: 30px;
+  margin-right: 3px;
+}
+.text {
+  font-family: 'Roboto';
+  color: black;
+  font-size: 12px;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 0px solid #ffffff;
+  margin-left: 700px;
+  list-style-type: none;
+}
+.li {
+  font-family: 'Roboto';
+  color: #555555;
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: 8px;
+}
